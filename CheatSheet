@@ -318,6 +318,11 @@ tar cjf archive.tar.bz2 directory
 
 # Extract a bzip2 compressed tar file.
 tar xjf archive.tar.bz2
+
+
+
+
+
 10 – INSTALLING PACKAGES
 # Search for a package by keyword.
 yum search keyword
